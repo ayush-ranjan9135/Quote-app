@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string-array name="quotes">
+        <item>"Keep calm and keep kaam se kaam"</item>
+        <item>"I hope one day I love someone the way women in commercials love yogurt."</item>
+        <item>"I believe in Karma that means I will do all bad things to people all day and assume these were their Karma."</item>
+        <item>"The longer I wait, the hotter I date."</item>
+        <item>"If I agreed with you then we'd both be wrong."</item>
+        <item>"My crush is like a username, already taken."</item>
+        <item>"Me and my wife lived happily for 25 years, and then we met."</item>
+        <item>"I smoke for religious reasons. Every puff gets me five minutes closer to God."</item>
+        <item>"I'm so tall, when it rains I'm always the first one to know."</item>
+        <item>"Sarcasm is the cleavage of personality."</item>
+        <item>"I can totally keep secrets. It's the people I tell them to who can't."</item>
+        <item>"Who cares if schools don’t teach us how to raise family…how to find my spouse…or how to get a job? At least I can find the area of a triangle."</item>
+        <item>"She said, "Describe me in one word." Can't.
+       And my favourite one."</item>
+        <item>" I keep on dreaming high but gravity pulls me down."</item>
+        <item>"The only way to do great work is to love what you do."</item>
+        <item>"Believe you can and you’re halfway there."</item>
+        <item>"Success is not final, failure is not fatal: It is the courage to continue that counts."</item>
+        <item>"You are never too old to set another goal or to dream a new dream."</item>
+        <item>"The greatest glory in living lies not in never falling, but in rising every time we fall."</item>
+        <item>"Love is the master key that opens the gates of happiness."</item>
+        <item>"You are the finest, loveliest, tenderest, and most beautiful person I have ever known, and even that is an understatement."</item>
+        <item>"The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves."</item>
+        <item>"The best is yet to come."</item>
+        <item>"Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope"</item>
+        <item>"My biggest concern in life is actually how my online friends can be informed of my death."</item>
+        <item>"My love doesn’t sleep; it keeps on looking for you with its eyes open."</item>
+        <item>"I was going to take over the world this morning, but I overslept."</item>
+        <item>"My therapist says I have a preoccupation with vengeance. We’ll see about that."</item>
+
+    </string-array>
+    <string name="display_quote">Display Quote</string>
+    <string name="instrruction_text">Please click the \"Display Quote\" button to show the quotes!!!</string>
+    <string name="last_quotes_message">No more quotes left. thank you!!!</string>
+    <string name="close_app">Close app</string>
+</resources>

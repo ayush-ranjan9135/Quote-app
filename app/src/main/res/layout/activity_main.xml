@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/quotess"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/quots_tv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:gravity="center"
+        android:text="@string/instrruction_text"
+        android:textAlignment="center"
+        android:textColor="@color/dark_charcoal"
+        android:textSize="22sp"
+        android:textColorHint="@color/dark_charcoal" />
+    <Button
+        android:id="@+id/next_quote_btn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/display_quote"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

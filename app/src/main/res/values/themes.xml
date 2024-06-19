@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/dark_charcoal</item>
+        <item name="colorPrimary">@color/arsenic</item>
+    </style>
+
+    <style name="Theme.Quotes" parent="Base.Theme.Quotes" />
+</resources>
