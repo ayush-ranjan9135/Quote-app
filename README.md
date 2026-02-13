@@ -114,12 +114,6 @@ event handling, activity lifecycle management, and basic data handling.
 
 <hr>
 
-<h2>📷 Screenshots</h2>
-
-<p>Add your app screenshots here</p>
-
-<hr>
-
 <h2>👨‍💻 Developed By</h2>
 
 <p>
